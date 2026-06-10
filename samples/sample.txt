@@ -1,0 +1,3 @@
+Hello, this is a sample file for encryption testing.
+The quick brown fox jumps over the lazy dog.
+12345 and punctuation!@#$%
